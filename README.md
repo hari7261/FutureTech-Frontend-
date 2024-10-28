@@ -2,7 +2,10 @@
 
 Welcome to the **FutureTech App**! This is a sleek and modern web application designed to elevate digital experiences through innovative technologies and an aesthetic user interface. Explore how we redefine what's possible in the digital realm!
 
-![FutureTech Banner](/future-tech-app/imges/ss%20(1).png) <!-- Replace with your banner image URL -->
+<figure>
+    <img src="/future-tech-app/imges/ss%20(1).png" alt="FutureTech Banner">
+    <figcaption>FutureTech Banner</figcaption>
+</figure>
 
 ## 🌟 Table of Contents
 
@@ -99,9 +102,10 @@ Here are some screenshots showcasing the **FutureTech App** in action:
 
 | Screenshot                 | Description                                          |
 |----------------------------|------------------------------------------------------|
-| ![Hero Section](/future-tech-app/imges/ss%20(1).png) | Hero section with animations.                       |
-| ![Services Overview](/future-tech-app/imges/ss%20(2).png) | Overview of services offered.                     |
-| ![Metrics Section](/future-tech-app/imges/ss%20(3).png) | Important company statistics displayed.           |
+| ![Hero Section](./imges/ss%20(1).png) | Hero section with animations.                       |
+| ![Services Overview](./imges/ss%20(2).png) | Overview of services offered.                     |
+| ![Metrics Section](./imges/ss%20(3).png) | Important company statistics displayed.           |
+
 
 ## 🤝 Contributing
 
