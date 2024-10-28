@@ -3,7 +3,7 @@
 Welcome to the **FutureTech App**! This is a sleek and modern web application designed to elevate digital experiences through innovative technologies and an aesthetic user interface. Explore how we redefine what's possible in the digital realm!
 
 <figure>
-    <img src="/future-tech-app/imges/ss%20(1).png" alt="FutureTech Banner">
+    <img src="https://github.com/hari7261/FutureTech-Frontend-/blob/main/imges/ss%20(1).png" alt="FutureTech Banner">
     <figcaption>FutureTech Banner</figcaption>
 </figure>
 
